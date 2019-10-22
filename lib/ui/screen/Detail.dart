@@ -6,6 +6,7 @@ class Detail extends StatefulWidget {
   @override
   _DetailState createState() => _DetailState();
 }
+//ferhgrgqqrq
 
 class _DetailState extends State<Detail> {
   var rating = 0.0;
