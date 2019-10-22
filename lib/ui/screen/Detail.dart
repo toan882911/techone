@@ -6,7 +6,7 @@ class Detail extends StatefulWidget {
   @override
   _DetailState createState() => _DetailState();
 }
-
+///thay doingfjghrgfd
 class _DetailState extends State<Detail> {
   var rating = 0.0;
   bool check = false;
